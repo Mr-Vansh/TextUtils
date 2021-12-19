@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/TextUtils/static/css/main.31d6cfe0.css",
+    "main.js": "/TextUtils/static/js/main.9f98fb3a.js",
+    "index.html": "/TextUtils/index.html",
+    "main.9f98fb3a.js.map": "/TextUtils/static/js/main.9f98fb3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.9f98fb3a.js"
+  ]
+}
